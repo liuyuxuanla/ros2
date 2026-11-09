@@ -10,7 +10,6 @@
 - ROS Noetic
 
 - Python 3.8
-
 text
 underwater_nn_nav/
 ├── model.py          # MJCF ROV模型、水下场景生成（礁石、管道、海底、水流）
